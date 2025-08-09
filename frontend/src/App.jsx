@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar"
 import Homepage from "./pages/Homepage"
-import LoginPage from './pages/LogInPage'
+import LoginPage from './pages/LoginPage'
 import ProfilePage from './pages/ProfilePage'
 import SettingsPage from './pages/SettingsPage'
 import SignUpPage from './pages/SignUpPage'
